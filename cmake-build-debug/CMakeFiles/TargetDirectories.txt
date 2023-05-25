@@ -1,0 +1,3 @@
+C:/Users/kartondev/CLionProjects/mat_power/cmake-build-debug/CMakeFiles/mat_power.dir
+C:/Users/kartondev/CLionProjects/mat_power/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kartondev/CLionProjects/mat_power/cmake-build-debug/CMakeFiles/rebuild_cache.dir
